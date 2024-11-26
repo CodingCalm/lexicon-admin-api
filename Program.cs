@@ -11,7 +11,7 @@ builder.Services.AddOpenApi();
 
 
 builder.Services.AddDbContext<AppDbContext>(options =>
-options.UseSqlServer(""));
+options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 
 var app = builder.Build();
