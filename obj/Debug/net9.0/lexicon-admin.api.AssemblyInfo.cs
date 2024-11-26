@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lexicon-admin.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25d72160e2839ed890dbd9977c30b341df9338f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90f50f09ec8e7a6f268d35a725c38296d49fa6f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("lexicon-admin.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lexicon-admin.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

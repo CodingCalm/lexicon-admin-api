@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\lexicon-admin.api.props" />
+</Project>

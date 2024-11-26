@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8aF8QXoPTqIQ3jI3V9v1eY2V0E/tjH+JE4w9C7BKtFI=",
+  "Source": "lexicon-admin.api",
+  "BasePath": "_content/lexicon-admin.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
